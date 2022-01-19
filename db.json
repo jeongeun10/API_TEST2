@@ -5,42 +5,46 @@
   "posts": [
     {
       "id": 1,
-      "telno": "01030018821",
+      "telno": "01036739214",
+      "birth": "971014",
 		  "type": "VVIP",
 			"result_cd": "000",
 			"result_msg": "success",
-			"result_name": "엄태연1",
-			"result_age": 20,      
+			"result_name": "임정은",
+			"result_age": 26,      
       "title": "Post 1"
     },
     {
       "id": 2,
-      "telno": "01030018822",
+      "telno": "01053944282",
+      "birth": "970215",
 		  "type": "VVIP",
 			"result_cd": "000",
 			"result_msg": "success",
-			"result_name": "엄태연2",
-			"result_age": 20,        
+			"result_name": "노승재",
+			"result_age": 26,        
       "title": "Post 2"
     },
     {
       "id": 3,
-      "telno": "01030018823",
+      "telno": "01043545557",
+      "birth": "920420",
 		  "type": "VVIP",
 			"result_cd": "000",
 			"result_msg": "success",
-			"result_name": "엄태연3",
-			"result_age": 20,        
+			"result_name": "최평기",
+			"result_age": 30,        
       "title": "Post 3"
     },
     {
       "id": 4,
-      "telno": "01030018824",
+      "telno": "01019910326",
+      "birth": "910326",
 		  "type": "VVIP",
 			"result_cd": "000",
 			"result_msg": "success",
-			"result_name": "엄태연4",
-			"result_age": 20,        
+			"result_name": "김민석",
+			"result_age": 32,        
       "title": "Post 4"
     }
   ],
